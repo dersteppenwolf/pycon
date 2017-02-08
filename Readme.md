@@ -18,7 +18,7 @@ Pycon 2017 Colombia http://www.pycon.co/
 - World Borders ( http://thematicmapping.org/downloads/world_borders.php )
 - Tweets about "odebrech" ( https://carto.com/integrations/twitter-maps/ )
 - Earthquakes ( http://www.ncedc.org/anss/catalog-search.html )
-- IDECA ( https://www.ideca.gov.co/es/servicios/mapa-de-referencia/tabla-mapa-referencia ) 
+- IDECA ( https://www.ideca.gov.co/es/servicios/mapa-de-referencia/tabla-mapa-referencia )
 
 ## Links
 
@@ -28,3 +28,6 @@ Pycon 2017 Colombia http://www.pycon.co/
 - Geographic Data Science http://darribas.org/gds15/syllabus.html
 - Geopandas http://darribas.org/gds15/content/labs/lab_03.pdf
 - Geopy http://geopy.readthedocs.io/en/latest/
+- GIS with Python, Shapely, and Fiona http://www.macwright.org/2012/10/31/gis-with-python-shapely-fiona.html
+- The Fiona User Manual http://toblerity.org/fiona/manual.html
+- OGR http://gdal.org/1.11/ogr/
