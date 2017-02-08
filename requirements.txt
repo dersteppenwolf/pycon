@@ -1,4 +1,4 @@
 fiona
 shapely
 geopy
-mapnik2==2.2.0
+mapnik

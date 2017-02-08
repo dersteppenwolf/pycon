@@ -1,0 +1,18 @@
+<Map background-color="#a6bddb" srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+
+  <Style name="My Style">
+    <Rule>
+      <PolygonSymbolizer fill="#e5f5e0" />
+      <LineSymbolizer stroke="#31a354" stroke-width="0.2" />
+    </Rule>
+  </Style>
+
+  <Layer name="world" srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>My Style</StyleName>
+    <Datasource>
+      <Parameter name="type">shape</Parameter>
+      <Parameter name="file">data/world_borders/TM_WORLD_BORDERS-0.3.shp</Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>
