@@ -31,3 +31,4 @@ Pycon 2017 Colombia http://www.pycon.co/
 - GIS with Python, Shapely, and Fiona http://www.macwright.org/2012/10/31/gis-with-python-shapely-fiona.html
 - The Fiona User Manual http://toblerity.org/fiona/manual.html
 - OGR http://gdal.org/1.11/ogr/
+- Mapnik, Getting Started In Python https://github.com/mapnik/mapnik/wiki/GettingStartedInPython 
