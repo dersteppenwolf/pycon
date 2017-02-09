@@ -11,6 +11,8 @@ Pycon 2017 Colombia http://www.pycon.co/
 
 
 >pip install -r requirements.txt
+>brew install mapnik
+>brew install spatialindex
 
 
 ## Data

@@ -4,3 +4,4 @@ geopy
 mapnik
 geopandas
 pysal
+Rtree
