@@ -39,6 +39,10 @@ Pycon 2017 Colombia http://www.pycon.co/
 - Compositing Operations https://tilemill-project.github.io/tilemill/docs/guides/comp-op/
 - What are Composite Operations? https://carto.com/academy/courses/intermediate-design/use-composite-operations
 - Matplotlib - Choosing Color Maps http://matplotlib.org/users/colormaps.html
+- Getting Started with PySAL http://pysal.readthedocs.io/en/latest/users/tutorials/index.html
+- Pysal Notebooks https://github.com/pysal/notebooks
+- Pysal Map Classify http://pysal.readthedocs.io/en/latest/library/esda/mapclassify.html
+- Fisher's Natural Breaks Classification http://wiki.objectvision.nl/index.php/Fisher's_Natural_Breaks_Classification
 
 ## Books
 
