@@ -8,10 +8,12 @@ Pycon 2017 Colombia http://www.pycon.co/
 - Python 2.7.x https://www.python.org/
 - Anaconda https://www.continuum.io/downloads
 - Pip https://pip.pypa.io/en/stable/
-
+- Qgis http://www.qgis.org/es/site/
 
 >pip install -r requirements.txt
+
 >brew install mapnik
+
 >brew install spatialindex
 
 
