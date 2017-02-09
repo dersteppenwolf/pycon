@@ -24,6 +24,7 @@ Pycon 2017 Colombia http://www.pycon.co/
 
 - Python Geospatial Development  https://github.com/PacktPublishing/Python-Geospatial-Development-Third-Edition
 - Essential Python Geospatial Libraries http://carsonfarmer.com/2013/07/essential-python-geo-libraries/
+- geospatial python http://geospatialpython.com/
 - GIS in Python  http://www.data-analysis-in-python.org/t_gis.html
 - Geographic Data Science http://darribas.org/gds15/syllabus.html
 - Geopandas http://darribas.org/gds15/content/labs/lab_03.pdf
@@ -32,5 +33,14 @@ Pycon 2017 Colombia http://www.pycon.co/
 - The Fiona User Manual http://toblerity.org/fiona/manual.html
 - OGR http://gdal.org/1.11/ogr/
 - Mapnik, Getting Started In Python https://github.com/mapnik/mapnik/wiki/GettingStartedInPython
+- Installing Mapnik on OS X with Homebrew https://github.com/mapnik/mapnik/wiki/MacInstallation_Homebrew
+- Python bindings for mapnik https://github.com/mapnik/python-mapnik 
 - Compositing Operations https://tilemill-project.github.io/tilemill/docs/guides/comp-op/
 - What are Composite Operations? https://carto.com/academy/courses/intermediate-design/use-composite-operations
+
+## Books
+
+- Learning Geospatial Analysis with Python http://amzn.to/2k64Nmh
+- QGIS Python Programming Cookbook http://bit.ly/2kRxDqe
+- GIS for Web Developers: Adding 'Where' to Your Web Applications http://amzn.to/2kL2LFz
+- Python Geospatial Development http://amzn.to/2kW1FJ7
