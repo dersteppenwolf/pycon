@@ -1,0 +1,38 @@
+<Map background-color="#6baed6" srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+
+  <Style name="world Style">
+    <Rule>
+      <PolygonSymbolizer fill="#f7f7f7" />
+      <LineSymbolizer stroke="#252525" stroke-width="0.1" />
+    </Rule>
+  </Style>
+
+  <Style name="earthquake Style">
+    <Rule>
+      <MarkersSymbolizer fill="#ffffb2" opacity=".9"
+        width="4" height="4"
+        stroke="#636363" stroke-width="1"
+        stroke-opacity=".9"
+        placement="point" allow-overlap="true"
+        marker-type="circle"/>
+    </Rule>
+  </Style>
+
+
+  <Layer name="world" srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>world Style</StyleName>
+    <Datasource>
+      <Parameter name="type">shape</Parameter>
+      <Parameter name="file">data/world_borders/TM_WORLD_BORDERS-0.3.shp</Parameter>
+    </Datasource>
+  </Layer>
+
+  <Layer name="earthquakes" srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    <StyleName>earthquake Style</StyleName>
+    <Datasource>
+      <Parameter name="type">shape</Parameter>
+      <Parameter name="file">data/shp/earthquakes.shp</Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>
