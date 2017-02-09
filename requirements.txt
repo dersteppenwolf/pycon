@@ -2,3 +2,5 @@ fiona
 shapely
 geopy
 mapnik
+geopandas
+pysal

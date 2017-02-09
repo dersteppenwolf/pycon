@@ -27,16 +27,18 @@ Pycon 2017 Colombia http://www.pycon.co/
 - geospatial python http://geospatialpython.com/
 - GIS in Python  http://www.data-analysis-in-python.org/t_gis.html
 - Geographic Data Science http://darribas.org/gds15/syllabus.html
-- Geopandas http://darribas.org/gds15/content/labs/lab_03.pdf
+- Geopandas Lab http://darribas.org/gds15/content/labs/lab_03.pdf
+- Geopandas http://geopandas.org/index.html
 - Geopy http://geopy.readthedocs.io/en/latest/
 - GIS with Python, Shapely, and Fiona http://www.macwright.org/2012/10/31/gis-with-python-shapely-fiona.html
 - The Fiona User Manual http://toblerity.org/fiona/manual.html
 - OGR http://gdal.org/1.11/ogr/
 - Mapnik, Getting Started In Python https://github.com/mapnik/mapnik/wiki/GettingStartedInPython
 - Installing Mapnik on OS X with Homebrew https://github.com/mapnik/mapnik/wiki/MacInstallation_Homebrew
-- Python bindings for mapnik https://github.com/mapnik/python-mapnik 
+- Python bindings for mapnik https://github.com/mapnik/python-mapnik
 - Compositing Operations https://tilemill-project.github.io/tilemill/docs/guides/comp-op/
 - What are Composite Operations? https://carto.com/academy/courses/intermediate-design/use-composite-operations
+- Matplotlib - Choosing Color Maps http://matplotlib.org/users/colormaps.html
 
 ## Books
 
